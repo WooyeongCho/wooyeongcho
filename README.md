@@ -20,6 +20,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooyeongCho%2Fwooyeongcho&count_bg=%232DCBAE&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![young's github stats](https://github-readme-stats.vercel.app/api?username=WooyeongCho&show_icons=true&theme=merko)
 <!--
 **WooyeongCho/wooyeongcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
