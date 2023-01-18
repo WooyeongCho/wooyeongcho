@@ -1,15 +1,5 @@
-### 안녕하세요 👋
-엔사모 (엔트리를 사랑하는 모임) 회장 Young Cuntri(WooyeongCho)입니다.
-
-#### ❤ 좋아하는 것
-- 작곡
-- 디자인
-- 코딩
-- 엔트리
-
 #### 📄 프로젝트
-- [Pyer](https://github.com/WooyeongCho/Pyer) | 엔트리 다크/민트 테마, 사용자 테마 크롬 확장앱
-- [macroX](https://github.com/WooyeongCho/macroX) | 엔트리 작품 자동 업데이트 매크로
+- [Pyer](https://github.com/WooyeongCho/Pyer) | 엔트리 테마, 사용자 테마 크롬 확장앱
 
 #### 📞 문의
 - discord : young#7772
