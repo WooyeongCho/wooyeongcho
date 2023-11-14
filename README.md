@@ -1,5 +1,7 @@
 #### 📄 프로젝트
 - [Pyer](https://github.com/WooyeongCho/Pyer) | 엔트리 테마, 사용자 테마 크롬 확장앱
+- [pyojeol checker](https://github.com/Craft374/Scientific_Task_Study) | 두 음악 간의 멜로디 유사도(표절률) 검사 프로그램 [고등학교 과학과제연구]
+- [melody2midi](https://github.com/WooyeongCho/melody2midi) | 오디오 파일의 주요 멜로디를 MIDI로 추출해주는 node.js 모듈
 
 #### 📞 문의
 - discord : young#7772
